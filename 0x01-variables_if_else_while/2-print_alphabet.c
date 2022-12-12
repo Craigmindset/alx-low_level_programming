@@ -5,25 +5,16 @@
  * main - returns alphabets
  *
  * Return: Always 0
-*/
+ */
 int main(void)
-
 {
+	int alph = 'a';
 
-  int alph = 'a';
-
-  while (alph <= 'z')
-
-    {
-
-      putchar(alph);
-
-      alph++;
-
-    }
-
-  putchar('\n');
-
-  return (0);
-
+	while (alph <= 'z')
+	{
+		putchar(alph);
+		alph++;
+	}
+	putchar('\n');
+	return (0);
 }
