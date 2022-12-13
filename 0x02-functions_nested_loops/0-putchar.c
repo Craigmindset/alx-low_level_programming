@@ -12,6 +12,6 @@ char *ch = "_putchar\n";
   putchar (*ch);
   ch++;
     }
-  
+
   return (0);
 }
