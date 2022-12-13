@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <main.h>
 /**
  *this purpose of the program
  *is to print _putchar only
