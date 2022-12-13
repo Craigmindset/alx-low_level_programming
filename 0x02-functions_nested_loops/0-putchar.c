@@ -13,5 +13,5 @@ char *ch = "_putchar\n";
   putchar (*ch);
   ch++;
     }
-  return(0);
+  return (0);
 }
