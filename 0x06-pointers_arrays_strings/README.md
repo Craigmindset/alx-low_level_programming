@@ -1,5 +1,5 @@
 # More pointers, arrays and strings
-Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about pointers and arrays in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about pointers and arrays in **C language
 
 ## Files
 All of the following files are programs written in C:
