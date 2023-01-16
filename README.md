@@ -1,6 +1,8 @@
 /**This a git repository for low level c programming
+
 **ALX SCHOOL COHORT 11 2022***
-. PLease read folder instructions for added information and how the programs
+
+PLease read folder README.md instructions for added information and how the programs
 works.
 0x00-hello_world
 0x01-variables_if_else_while
