@@ -1,4 +1,4 @@
-/**This a git repository for low level c programming
+/**This a git repository for ALX low level c programming
 
 ***ALX SCHOOL COHORT 11 2022***
 
