@@ -1,6 +1,6 @@
 /**This a git repository for ALX low level c programming
 
-***ALX SCHOOL COHORT 11 2022***
+******ALX SCHOOL COHORT 11 2022***
 
 PLease read folder README.md instructions for added information and how the programs
 works.
