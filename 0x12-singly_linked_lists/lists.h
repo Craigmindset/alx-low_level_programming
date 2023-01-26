@@ -10,8 +10,13 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for alx cohort 11 project
  */
+typedef struct list_s
+{
+    char *str;
+    unsigned int len;
+    struct list_s *next;
+} list_t;
 typedef struct list_s
 {
   char *str;
