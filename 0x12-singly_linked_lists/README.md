@@ -1,5 +1,5 @@
 # Singly linked lists
-Project done during **Full Stack Software Engineering studies** at **ALX SCHOOL**. It aims to learn about linked lists in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX SCHOOL cohort 11**. It aims to learn about linked lists in **C language**.
 ## Files
 All of the following files are programs written in C:
 
